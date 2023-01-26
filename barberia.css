@@ -1,0 +1,40 @@
+
+#foto{
+    width: 100%;
+}
+.principal{
+    background-color: #cccccc;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}    
+em strong {
+    color: red;
+}
+#size{
+    font-size: 20px;
+}
+.diferencial{
+    background-color: white;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+.items{
+    font-s
+    tyle: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 20%;
+}
+.imagendif{
+    width: 50%;
+}
