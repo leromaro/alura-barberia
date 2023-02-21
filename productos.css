@@ -158,29 +158,29 @@ p::first-line{
     float: left;
     margin: 0 20px 20px 0;
 }
-.imagen-diferenciales{
-    width: 60%;
-    transition: 400ms;
-    box-shadow: 10px 10px 30px 15px black;
- 
-}
-.imagen-diferenciales:hover{
-    opacity: 30%;
-}
 .diferencial{
     padding: 3em 0;
     background-color: #88888888;
-
 }
 .diferenciales{
     width: 640px;
     margin: 0 auto;
-
+}
+li{
+    list-style: none
 }
 .lista-diferenciales{
     width: 40%;
     float: left;
     vertical-align: top;
+}
+.imagen-diferenciales{
+    width: 60%;
+    transition: 400ms;
+    box-shadow: 10px 10px 30px 15px black;
+}
+.imagen-diferenciales:hover{
+    opacity: 30%;
 }
 .items{
     line-height: 1.5;
